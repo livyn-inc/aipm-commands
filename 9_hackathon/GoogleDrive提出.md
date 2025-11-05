@@ -1,7 +1,7 @@
 # 14 GoogleDrive提出（AIPMハッカソン）
 
 ## 目的
-GitHubアカウントを持たない参加者向けに、Stock側の提出フォルダをZIP圧縮して、指定のGoogleDriveフォルダ（https://drive.google.com/drive/folders/1GBPNM_qMEx4OHD4iVmqUCguH1Q9xBpD5）にアップロードするための手順を提供します。
+GitHubアカウントを持たない参加者向けに、Stock側の提出フォルダをZIP圧縮して、指定のGoogleDriveフォルダにアップロードするための手順を提供します。
 
 ## 事前条件
 - 成果物パッケージング（`@成果物パッケージング`）を実行済みであること
@@ -106,7 +106,7 @@ GitHubアカウントを持たない参加者向けに、Stock側の提出フォ
         ```
         
         **2. アップロード先**:
-        🔗 **GoogleDriveフォルダ**: https://drive.google.com/drive/folders/1KiYEBLTHX9_fLS9ywrRT8DyS4V4T0yBT
+        🔗 **GoogleDriveフォルダ**: https://drive.google.com/
         
         **3. アップロード手順**:
         
@@ -151,7 +151,7 @@ GitHubアカウントを持たない参加者向けに、Stock側の提出フォ
         - [ ] ZIPファイルの存在確認済み
         
         ### アップロード実行
-        - [ ] GoogleDriveフォルダを開く: https://drive.google.com/drive/folders/1GBPNM_qMEx4OHD4iVmqUCguH1Q9xBpD5
+        - [ ] GoogleDriveフォルダを開く: https://drive.google.com/drive/folders/
         - [ ] 「新規」→「ファイルのアップロード」をクリック
         - [ ] ZIPファイル（{{participant_name}}_{{project_id}}_{{today}}.zip）を選択
         - [ ] アップロード進行状況を確認
@@ -186,14 +186,14 @@ GitHubアカウントを持たない参加者向けに、Stock側の提出フォ
       command: |
         echo "🌐 GoogleDriveフォルダを開いています..."
         if command -v open >/dev/null 2>&1; then
-          open "https://drive.google.com/drive/folders/1GBPNM_qMEx4OHD4iVmqUCguH1Q9xBpD5"
+          open "https://drive.google.com/drive/folders/"
         elif command -v xdg-open >/dev/null 2>&1; then
-          xdg-open "https://drive.google.com/drive/folders/1GBPNM_qMEx4OHD4iVmqUCguH1Q9xBpD5"
+          xdg-open "https://drive.google.com/drive/folders/"
         elif command -v start >/dev/null 2>&1; then
-          start "https://drive.google.com/drive/folders/1GBPNM_qMEx4OHD4iVmqUCguH1Q9xBpD5"
+          start "https://drive.google.com/drive/folders/"
         else
           echo "手動でブラウザを開き、以下URLにアクセスしてください:"
-          echo "https://drive.google.com/drive/folders/1GBPNM_qMEx4OHD4iVmqUCguH1Q9xBpD5"
+          echo "https://drive.google.com/drive/folders/
         fi
     
     - name: "notify_completion"
