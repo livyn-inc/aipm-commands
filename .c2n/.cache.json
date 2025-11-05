@@ -1,0 +1,402 @@
+{
+  "parent_url": "https://www.notion.so/explaza/Evangelist-199b133701be8082842bcd68a7d7836f",
+  "ignore_patterns": [
+    "**/__pycache__",
+    "**/__pycache__/**",
+    "**/*.drawio.md"
+  ],
+  "probe": {
+    "config_path": "/Users/daisukemiyata/aipm_v3/.cursor/commands/aipm/.c2n/config.json",
+    "config_mtime": 1759386347,
+    "ignore_path": "/Users/daisukemiyata/aipm_v3/.cursor/commands/aipm/.c2n_ignore",
+    "ignore_mtime": 1759385976,
+    "index_path": "/Users/daisukemiyata/aipm_v3/.cursor/commands/aipm/.c2n/index.yaml",
+    "index_mtime": 1759385976,
+    "env_chain": [
+      {
+        "path": "/Users/daisukemiyata/aipm_v3/.env",
+        "mtime": 1759117438
+      }
+    ]
+  },
+  "last_prog_total": 52,
+  "dir_snapshot": {
+    ".": {
+      "mtime_ns": 1759385976696674555,
+      "dirs": [
+        "0_initialize",
+        "1_sense",
+        "2_focus",
+        "3_discovery",
+        "4_delivery",
+        "5_sense2",
+        "6_focus2",
+        "7_discovery2",
+        "8_delivery2",
+        "9_hackathon",
+        "images",
+        "templates"
+      ],
+      "files": [
+        "README.md"
+      ]
+    },
+    "0_initialize": {
+      "mtime_ns": 1757665989134058171,
+      "dirs": [],
+      "files": [
+        "00_プロジェクト開始.md"
+      ]
+    },
+    "1_sense": {
+      "mtime_ns": 1757669025132866779,
+      "dirs": [],
+      "files": [
+        "01_競合調査.md",
+        "02_顧客調査.md",
+        "03_インタビュー設計.md",
+        "04_リクルーティング計画.md",
+        "05_インタビュー分析（個別）.md",
+        "06_リサーチサマリー（全体）.md",
+        "07_オポチュニティ仮説抽出.md",
+        "90_仮想インタビューログ生成.md"
+      ]
+    },
+    "2_focus": {
+      "mtime_ns": 1758010700807160743,
+      "dirs": [],
+      "files": [
+        "01_プロダクト定義.md",
+        "02_市場規模推定.md",
+        "03_ラフロードマップ作成.md",
+        "04_OKR作成.md",
+        "05_リーンキャンバス作成.md",
+        "06_オポチュニティ仮説優先順位づけ.md",
+        "07_プレゼンテーション資料作成.md"
+      ]
+    },
+    "3_discovery": {
+      "mtime_ns": 1757669025141460306,
+      "dirs": [],
+      "files": [
+        "01_ペルソナ作成.md",
+        "02_課題定義.md",
+        "03_ソリューションマップ.md",
+        "04_ストーリーマップ.md",
+        "05_UIワイヤーフレーム.md",
+        "06_Drawioスクリーン生成.md"
+      ]
+    },
+    "4_delivery": {
+      "mtime_ns": 1758090274822402037,
+      "dirs": [],
+      "files": [
+        "07_開発タスク分解.md",
+        "08_チケット開始.md",
+        "09_チケット実行と検証.md",
+        "10_タスクリファイン.md",
+        "11_ストーリー受け入れテスト.md",
+        "12_仕様アップデート.md"
+      ]
+    },
+    "5_sense2": {
+      "mtime_ns": 1757669025140160916,
+      "dirs": [],
+      "files": [
+        "00_プロダクトメトリクス.md",
+        "01_インタビュー設計.md",
+        "02_インタビュー分析（個別）.md",
+        "03_リサーチサマリー（全体）.md",
+        "04_オポチュニティ仮説抽出.md"
+      ]
+    },
+    "6_focus2": {
+      "mtime_ns": 1757669025139221478,
+      "dirs": [],
+      "files": [
+        "01_ロードマップ設計.md",
+        "02_WBS作成.md",
+        "03_リスク分析.md"
+      ]
+    },
+    "7_discovery2": {
+      "mtime_ns": 1757669025141957587,
+      "dirs": [],
+      "files": [
+        "01_PRD作成.md",
+        "02_DesignDoc作成.md"
+      ]
+    },
+    "8_delivery2": {
+      "mtime_ns": 1757669025135816133,
+      "dirs": [],
+      "files": [
+        "01_バックログ初期化.md",
+        "02_スプリントゴール.md",
+        "03_スプリントレビュー.md",
+        "04_開発環境セットアップ.md",
+        "05_開発計画作成.md",
+        "06_実装順序計画.md",
+        "07_ストーリー実装.md",
+        "08_記事執筆.md",
+        "09_成果物確認.md"
+      ]
+    },
+    "9_hackathon": {
+      "mtime_ns": 1757693548239387385,
+      "dirs": [],
+      "files": [
+        "GoogleDrive提出.md",
+        "Marpスライド生成.md",
+        "成果物パッケージング.md"
+      ]
+    }
+  },
+  "file_snapshot": {
+    "0_initialize/00_プロジェクト開始.md": {
+      "mtime_ns": 1757670188319678353,
+      "size": 12539,
+      "sha1": "3b56851a915a8225d5949cd36e61ceedf5fcbc5f"
+    },
+    "1_sense/01_競合調査.md": {
+      "mtime_ns": 1757670188315520799,
+      "size": 6023,
+      "sha1": "21f05a5d3497c2c815221e2bdaa2a7457a583e07"
+    },
+    "1_sense/02_顧客調査.md": {
+      "mtime_ns": 1757670188314949506,
+      "size": 4427,
+      "sha1": "5b675237b2982a8365a0183636e93f54151a39d7"
+    },
+    "1_sense/03_インタビュー設計.md": {
+      "mtime_ns": 1757670188315330215,
+      "size": 3070,
+      "sha1": "7c40bdaf19ef14e55fd545cc0970435a741db3b2"
+    },
+    "1_sense/04_リクルーティング計画.md": {
+      "mtime_ns": 1757670188315244965,
+      "size": 3344,
+      "sha1": "33e97ad08c626ed7a1055603f19e18ae256dc1db"
+    },
+    "1_sense/05_インタビュー分析（個別）.md": {
+      "mtime_ns": 1757670188315410674,
+      "size": 2551,
+      "sha1": "3ac3b4897d26df40a1ffcccddfce8c53930353f3"
+    },
+    "1_sense/06_リサーチサマリー（全体）.md": {
+      "mtime_ns": 1757670188315155715,
+      "size": 2429,
+      "sha1": "86c2df051f4a8b16bf96e789d45b89d61bf83ffc"
+    },
+    "1_sense/07_オポチュニティ仮説抽出.md": {
+      "mtime_ns": 1757670188315739091,
+      "size": 4451,
+      "sha1": "a259a2ee34c5369a2275c81adf2d23431e71b897"
+    },
+    "1_sense/90_仮想インタビューログ生成.md": {
+      "mtime_ns": 1757670188314853714,
+      "size": 3108,
+      "sha1": "f257f7a217ff733fda791cdb9af5e5358ba7496e"
+    },
+    "2_focus/01_プロダクト定義.md": {
+      "mtime_ns": 1757670188318425141,
+      "size": 5543,
+      "sha1": "3aa3b6170a89eef9a86ca4a4fe271fb14cc298ec"
+    },
+    "2_focus/02_市場規模推定.md": {
+      "mtime_ns": 1757670188319075726,
+      "size": 12343,
+      "sha1": "da297ab33a4646d79ad4e74115fd4bcf42da224c"
+    },
+    "2_focus/03_ラフロードマップ作成.md": {
+      "mtime_ns": 1757670188318271599,
+      "size": 2525,
+      "sha1": "ea14e2e9ce7b9e959e6f9ce4e9d1989340848a73"
+    },
+    "2_focus/04_OKR作成.md": {
+      "mtime_ns": 1757669025138467827,
+      "size": 2403,
+      "sha1": "9d2b60a8de58e9dd4e9aa0bf91b5e7fcf3a48f41"
+    },
+    "2_focus/05_リーンキャンバス作成.md": {
+      "mtime_ns": 1757670188318655475,
+      "size": 6253,
+      "sha1": "3bc4d4400bd42cd6099c4e5f2a28c4e4d068f9c4"
+    },
+    "2_focus/06_オポチュニティ仮説優先順位づけ.md": {
+      "mtime_ns": 1758090377888569305,
+      "size": 0,
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    "2_focus/07_プレゼンテーション資料作成.md": {
+      "mtime_ns": 1758010669633128407,
+      "size": 22071,
+      "sha1": "9490a219f3aeaf8f61f24ddc4b2466a01ffb507d"
+    },
+    "3_discovery/01_ペルソナ作成.md": {
+      "mtime_ns": 1758158756532917331,
+      "size": 30515,
+      "sha1": "1ce917b2b4444ca25e028e4712fedaff5d2dd313"
+    },
+    "3_discovery/02_課題定義.md": {
+      "mtime_ns": 1758158756723015960,
+      "size": 36231,
+      "sha1": "fa6e078d24f9633891f6b096a9a8daa751f9853d"
+    },
+    "3_discovery/03_ソリューションマップ.md": {
+      "mtime_ns": 1758158762107702337,
+      "size": 35474,
+      "sha1": "c1bfb7b964a87f05c73d132e90ffa732a553d8ac"
+    },
+    "3_discovery/04_ストーリーマップ.md": {
+      "mtime_ns": 1758603374117624385,
+      "size": 20800,
+      "sha1": "42dfb796e0ddb72f519a2bbd296be957b96313fc"
+    },
+    "3_discovery/05_UIワイヤーフレーム.md": {
+      "mtime_ns": 1758158762560200422,
+      "size": 14553,
+      "sha1": "3c7496706995eeee0acefa509c61685f8a61da28"
+    },
+    "3_discovery/06_Drawioスクリーン生成.md": {
+      "mtime_ns": 1758030567389265278,
+      "size": 5920,
+      "sha1": "e6564d3576f58c6bf03341fa9e123c2f27d6e9c6"
+    },
+    "4_delivery/07_開発タスク分解.md": {
+      "mtime_ns": 1758158763948029744,
+      "size": 28511,
+      "sha1": "99dddbe2c965c6c1d979195b23d9cdbf8b264f6b"
+    },
+    "4_delivery/08_チケット開始.md": {
+      "mtime_ns": 1757746874276655101,
+      "size": 15759,
+      "sha1": "54d6447aeeaf1a204c81865ca51f8c5fe9ed69ce"
+    },
+    "4_delivery/09_チケット実行と検証.md": {
+      "mtime_ns": 1757746874324965291,
+      "size": 10749,
+      "sha1": "11d41761aed909e55b749516bb86060157aafcc0"
+    },
+    "4_delivery/10_タスクリファイン.md": {
+      "mtime_ns": 1757746874034886945,
+      "size": 13133,
+      "sha1": "272a026153c205807d8bdde8c1093eafe2925713"
+    },
+    "4_delivery/11_ストーリー受け入れテスト.md": {
+      "mtime_ns": 1758090377957538242,
+      "size": 0,
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    "4_delivery/12_仕様アップデート.md": {
+      "mtime_ns": 1758158764884371816,
+      "size": 68,
+      "sha1": "48428ccf680cbc93fb928411e9464bac1e59c2c6"
+    },
+    "5_sense2/00_プロダクトメトリクス.md": {
+      "mtime_ns": 1757670188320748856,
+      "size": 4772,
+      "sha1": "5139267622ac5bfe284011beba8e93d322375dad"
+    },
+    "5_sense2/01_インタビュー設計.md": {
+      "mtime_ns": 1757670188320542272,
+      "size": 3047,
+      "sha1": "8f832c99cd736d26c15e9546e5cbe3059f3f47a7"
+    },
+    "5_sense2/02_インタビュー分析（個別）.md": {
+      "mtime_ns": 1757670188320345146,
+      "size": 2611,
+      "sha1": "d15b20e8235fed21cf08b441d8d72d1984e3c016"
+    },
+    "5_sense2/03_リサーチサマリー（全体）.md": {
+      "mtime_ns": 1757670188320626689,
+      "size": 2243,
+      "sha1": "9ffcd4fbdea8eb4366be3e2970908f97eab96d8e"
+    },
+    "5_sense2/04_オポチュニティ仮説抽出.md": {
+      "mtime_ns": 1757670188320447188,
+      "size": 3537,
+      "sha1": "c104a5d96f16703c1df297c10d5d68e9ad3d9501"
+    },
+    "6_focus2/01_ロードマップ設計.md": {
+      "mtime_ns": 1757670188320130104,
+      "size": 7915,
+      "sha1": "3c1e7affb66c64d70597fcd0fbe93400de37b47b"
+    },
+    "6_focus2/02_WBS作成.md": {
+      "mtime_ns": 1757670188319842478,
+      "size": 2964,
+      "sha1": "421ce3408c477f8c571c25bacad60551643a7ed3"
+    },
+    "6_focus2/03_リスク分析.md": {
+      "mtime_ns": 1757670188319946395,
+      "size": 2578,
+      "sha1": "b90105dc436b669996ce19fe4e05ca38b3d181ff"
+    },
+    "7_discovery2/01_PRD作成.md": {
+      "mtime_ns": 1757670188323067945,
+      "size": 8495,
+      "sha1": "04327ef5904a91ab0e355341dc8a2bfb1cd45fcd"
+    },
+    "7_discovery2/02_DesignDoc作成.md": {
+      "mtime_ns": 1757670188322786111,
+      "size": 7265,
+      "sha1": "bb8448f8054f7462ee95d0d8fa57356e67c6d48d"
+    },
+    "8_delivery2/01_バックログ初期化.md": {
+      "mtime_ns": 1757670188317203221,
+      "size": 2959,
+      "sha1": "6ac81fec2a1badba97a1bd756fb663912b4836dc"
+    },
+    "8_delivery2/02_スプリントゴール.md": {
+      "mtime_ns": 1757670188316691844,
+      "size": 1928,
+      "sha1": "96e84bec67633060c486f6dcdfa61cc2d671cad3"
+    },
+    "8_delivery2/03_スプリントレビュー.md": {
+      "mtime_ns": 1757669025135934214,
+      "size": 2445,
+      "sha1": "8227c8541997afc74797a056b307b57d20ed46e5"
+    },
+    "8_delivery2/04_開発環境セットアップ.md": {
+      "mtime_ns": 1757670188316570635,
+      "size": 4044,
+      "sha1": "1a2cd5210249b74921f246324221bfa8d931e5f0"
+    },
+    "8_delivery2/05_開発計画作成.md": {
+      "mtime_ns": 1757670188317112387,
+      "size": 3406,
+      "sha1": "f52c9665b77f0fa372077f25a9bace678a77ec30"
+    },
+    "8_delivery2/06_実装順序計画.md": {
+      "mtime_ns": 1757670188316914011,
+      "size": 3449,
+      "sha1": "4185d368b7f2491c961f86e89ebf19d412b48af7"
+    },
+    "8_delivery2/07_ストーリー実装.md": {
+      "mtime_ns": 1757670188317297346,
+      "size": 3571,
+      "sha1": "dc53cb4018af2500710b4075ff3d2f3284876005"
+    },
+    "8_delivery2/08_記事執筆.md": {
+      "mtime_ns": 1757670188316800969,
+      "size": 3421,
+      "sha1": "5fd5023bd84991f82521f78227e57b064d318ebf"
+    },
+    "8_delivery2/09_成果物確認.md": {
+      "mtime_ns": 1757670188317017262,
+      "size": 3817,
+      "sha1": "6ea8c3a2d5a97dabdaebc68ffcaa6b8d29252516"
+    },
+    "9_hackathon/GoogleDrive提出.md": {
+      "mtime_ns": 1757746874465878749,
+      "size": 11232,
+      "sha1": "1e43b0d53f0abfaffdb810ee7cc51cb733f7530b"
+    },
+    "9_hackathon/Marpスライド生成.md": {
+      "mtime_ns": 1757746874624916993,
+      "size": 8931,
+      "sha1": "e91861a5ccf729fa25cb5bc64746ebf7089fdc70"
+    }
+  }
+}

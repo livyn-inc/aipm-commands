@@ -106,7 +106,7 @@ GitHubアカウントを持たない参加者向けに、Stock側の提出フォ
         ```
         
         **2. アップロード先**:
-        🔗 **GoogleDriveフォルダ**: https://drive.google.com/drive/folders/1GBPNM_qMEx4OHD4iVmqUCguH1Q9xBpD5
+        🔗 **GoogleDriveフォルダ**: https://drive.google.com/drive/folders/1KiYEBLTHX9_fLS9ywrRT8DyS4V4T0yBT
         
         **3. アップロード手順**:
         
@@ -229,4 +229,6 @@ GitHubアカウントを持たない参加者向けに、Stock側の提出フォ
 ## 関連コマンド
 - 前段階: `@成果物パッケージング` で提出フォルダを準備
 - 代替手段: `@GitHub提出` でGitHub経由提出
+
+
 

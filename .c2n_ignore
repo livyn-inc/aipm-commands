@@ -1,0 +1,4 @@
+# .c2n_ignore
+# /Dev/
+**/__pycache__/
+**/*.drawio.md

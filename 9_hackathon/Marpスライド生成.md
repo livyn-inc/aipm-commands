@@ -72,11 +72,30 @@
         
         Marp for VS Code 拡張機能でプレビュー、またはPDF/PPTXエクスポートできます。
         
+        📁 提出方法（ZIP不要）
+        - 下記フォルダをそのままGoogle Driveにドラッグ＆ドロップでアップロードしてください：
+          `Flow/{{today}}/{{flow_dir}}/11_Marpスライド生成/`
+        - 画像や追加素材がある場合は、このフォルダ内に配置してください
+        
         📱 デモ用ファイル:
         - 実装コード: `Flow/{{today}}/{{flow_dir}}/dev/src/index.html`
         - ライブデモ: `dev/src/index.html` をブラウザで開いて実演
         
         必要に応じて画像やスクリーンショットを追加してください。
+
+    # フォルダ提出（ZIP不要）を支援：Finder/Explorerを開く
+    - name: "open_slide_folder"
+      action: "execute_shell"
+      command: "open Flow/{{today}}/{{flow_dir}}/11_Marpスライド生成"
+      message: "スライド生成フォルダを開きます（ZIPせずフォルダのままアップロード）。"
+
+    - name: "display_folder_upload_tips"
+      action: "display"
+      content: |
+        📤 フォルダごと提出ガイド
+        1. 開いたフォルダをGoogle Driveの提出先にドラッグ＆ドロップ
+        2. フォルダ名にチーム名・氏名を含めると運営が識別しやすくなります
+        3. 共同編集する場合はDrive上で権限を「編集可」に設定してください
 ```
 
 ## Marpテンプレート
